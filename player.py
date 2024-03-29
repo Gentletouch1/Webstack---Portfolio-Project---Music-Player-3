@@ -55,7 +55,7 @@ def PlayMusic():
 lower_frame = Frame(root, bg = 'grey', width=485, height=180)
 lower_frame.place(x=0,y=480)
 
-image_icon = PhotoImage(file='logo G2.png')
+image_icon = PhotoImage(file='logo G3.png')
 root.iconphoto(False, image_icon)
 
 Menu = PhotoImage(file = 'menu.png')
